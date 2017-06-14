@@ -21,3 +21,5 @@ Se você está sendo assediado, observe que alguém está sendo assediado ou tem
 A equipe da conferência ficará feliz em ajudar os participantes a entrar em contato com a segurança do hotel / local ou com a aplicação da lei local, fornecer escoltas ou, de outra forma, ajudar aqueles que sofrem assédio para se sentirem seguros durante a conferência. Nós valorizamos sua participação.
 
 Esperamos que os participantes sigam essas regras em todos os locais de conferência e eventos sociais relacionados à conferência.
+
+Baseado no http://jsconf.com/codeofconduct.html
